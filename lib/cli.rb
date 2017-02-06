@@ -36,7 +36,7 @@ class StockScreener::CLI
 			puts "Check back tomorrow for an updated list! Goodbye."
 			exit
 		end
-	end		
+	end
 
 	def list_stocks
 			puts ""

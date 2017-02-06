@@ -4,6 +4,8 @@ GEM
     coderay (1.1.1)
     method_source (0.8.2)
     mini_portile2 (2.1.0)
+    nokogiri (1.7.0.1)
+      mini_portile2 (~> 2.1.0)
     nokogiri (1.7.0.1-x86-mingw32)
       mini_portile2 (~> 2.1.0)
     pry (0.10.4)
@@ -15,6 +17,7 @@ GEM
     slop (3.6.0)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
